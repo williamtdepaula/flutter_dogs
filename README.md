@@ -1,5 +1,5 @@
 # Flutter Dogs
-⭐ This is a app developed in Flutter, using Object Oriented Programing, Modular Programming, MobX, SOLID, Inversion of Control, Dependency Inversion and TDD ⭐ 
+⭐ This is a app developed in Flutter, using Object Oriented Programing, Modular Programming, MobX, SOLID, Inversion of Control, Dependency Inversion and TDD⭐ 
 
 ## The App
 
