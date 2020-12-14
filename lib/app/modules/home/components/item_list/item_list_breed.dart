@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_dogs/app/modules/home/home_controller.dart';
-import 'package:flutter_dogs/app/modules/home/models/breed.dart';
+import 'package:flutter_dogs/app/shared/models/breed.dart';
 import 'package:flutter_modular/flutter_modular.dart';
 
 class ItemListBreed extends StatelessWidget {

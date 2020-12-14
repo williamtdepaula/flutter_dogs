@@ -3,8 +3,8 @@ import 'package:flutter_dogs/app/modules/detail_breed/components/item_list/item_
 import 'package:flutter_dogs/app/modules/detail_breed/components/load_more/load_more.dart';
 import 'package:flutter_dogs/app/modules/detail_breed/components/loading/loading.dart';
 import 'package:flutter_dogs/app/modules/detail_breed/detail_breed_controller.dart';
-import 'package:flutter_dogs/app/modules/home/models/breed.dart';
 import 'package:flutter_dogs/app/shared/components/warning/error_load.dart';
+import 'package:flutter_dogs/app/shared/models/breed.dart';
 import 'package:flutter_mobx/flutter_mobx.dart';
 import 'package:flutter_modular/flutter_modular.dart';
 

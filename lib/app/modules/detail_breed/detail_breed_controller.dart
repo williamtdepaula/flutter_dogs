@@ -1,9 +1,9 @@
 import 'package:dartz/dartz.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_dogs/app/modules/detail_breed/models/breed_image.dart';
-import 'package:flutter_dogs/app/modules/home/models/breed.dart';
 import 'package:flutter_dogs/app/shared/errors/errors.dart';
 import 'package:flutter_dogs/app/shared/infra/repositories/dogs_repository_interface.dart';
+import 'package:flutter_dogs/app/shared/models/breed.dart';
 import 'package:mobx/mobx.dart';
 import 'package:flutter_modular/flutter_modular.dart';
 

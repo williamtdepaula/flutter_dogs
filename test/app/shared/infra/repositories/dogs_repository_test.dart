@@ -2,13 +2,11 @@ import 'dart:convert';
 
 import 'package:dartz/dartz.dart';
 import 'package:dio/dio.dart';
-import 'package:flutter_dogs/app/app_module.dart';
 import 'package:flutter_dogs/app/modules/detail_breed/models/breed_image.dart';
-import 'package:flutter_dogs/app/modules/home/models/breed.dart';
 import 'package:flutter_dogs/app/shared/errors/errors.dart';
 import 'package:flutter_dogs/app/shared/infra/datasource/dogs_datasource_interface.dart';
 import 'package:flutter_dogs/app/shared/infra/repositories/dogs_repository.dart';
-import 'package:flutter_modular/flutter_modular_test.dart';
+import 'package:flutter_dogs/app/shared/models/breed.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mockito/mockito.dart';
 

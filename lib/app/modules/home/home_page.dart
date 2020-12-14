@@ -1,10 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_dogs/app/modules/home/components/item_list/item_list_breed.dart';
-import 'package:flutter_dogs/app/modules/home/models/breed.dart';
 import 'package:flutter_dogs/app/shared/components/warning/error_load.dart';
+import 'package:flutter_dogs/app/shared/models/breed.dart';
 import 'package:flutter_mobx/flutter_mobx.dart';
 import 'package:flutter_modular/flutter_modular.dart';
-import 'package:mobx/mobx.dart';
 import 'home_controller.dart';
 
 class HomePage extends StatefulWidget {
